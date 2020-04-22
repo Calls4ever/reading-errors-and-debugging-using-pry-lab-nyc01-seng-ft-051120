@@ -5,7 +5,7 @@ def snake_it_up(string)
 
  10.times do string.unshift("s")
 binding.pry
-end
+
   else
     string
   end
