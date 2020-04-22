@@ -6,8 +6,7 @@ def snake_it_up(string)
  10.times do string = "s" + string
 
  end
-  p string
-binding.pry
+  
   else
     string
   end
