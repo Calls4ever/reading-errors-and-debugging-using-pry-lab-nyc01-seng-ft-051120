@@ -1,7 +1,7 @@
 # don't forget to add: require 'pry'
 require 'pry'
 def start_game(player1, player2)
-  msg1="Hello #{player1} & #{playar2}"
+  msg1="Hello #{player1} & #{player2}"
   puts msg1
 end
 
