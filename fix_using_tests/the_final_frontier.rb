@@ -8,10 +8,12 @@ end
 
 
 def state_log(star_date)
-  "Captain's Log, star date #{star_date}."
+  msg1="Captain's Log, star date #{star_date}."
+  p msg1
 end
 
 def engage
   puts state_log(date)
   date = generate_star_date
+  binding.pry
 end
