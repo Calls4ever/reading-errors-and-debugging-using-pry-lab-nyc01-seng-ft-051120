@@ -6,5 +6,5 @@ end
 
 def play_game(player1)
   msg2="#{player1} is better than #{player2}"
-  
+
 end
