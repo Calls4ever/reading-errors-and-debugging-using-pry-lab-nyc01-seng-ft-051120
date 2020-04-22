@@ -7,6 +7,6 @@ end
 
 def play_game(player1, player2)
   msg2 ="#{player1} is better than #{player2}"
-  puts msg2
+  
   binding.pry
 end
